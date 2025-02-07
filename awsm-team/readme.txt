@@ -1,11 +1,14 @@
 === AWSM Team - Team Showcase Plugin ===
 Contributors: awsmin
-Tags: team, team page, team members, team builder, team shortcode, team layout, team plugin, members, users
+Tags: team, members, team builder, team layout, team plugin
 Requires at least: 4.0
 Tested up to: 6.5.4
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+The most versatile WordPress plugin to create and manage a team showcase.
+
 
 == Summary ==
 
@@ -53,6 +56,9 @@ The lite version comes with 3 presets and a number of style options. You can cre
 
 == Changelog ==
 
+= V 1.3.3 - 2025-01-21 =
+* Security fixes and code improvements.
+
 = V 1.3.2 - 2024-06-19 =
 * Code improvements and other minor bug fixes.
 
@@ -92,5 +98,6 @@ The lite version comes with 3 presets and a number of style options. You can cre
 
 == Upgrade Notice ==
 
-= 1.3.0 =
-Improvements and bug fixes
+= 1.3.3 =
+* Security fixes and code improvements.
+* Code improvements.
