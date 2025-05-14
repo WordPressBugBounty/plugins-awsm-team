@@ -2,7 +2,7 @@
 Contributors: awsmin
 Tags: team, members, team builder, team layout, team plugin
 Requires at least: 4.0
-Tested up to: 6.5.4
+Tested up to: 6.8
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
